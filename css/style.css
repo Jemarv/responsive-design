@@ -111,6 +111,10 @@ label {
     margin-top: 26px;
 }
 
+input {
+    display: none;
+}
+
 #check {
     z-index: 3;
 }
